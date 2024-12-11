@@ -22,7 +22,6 @@
     "eject": "react-scripts eject",
     "postinstall": "npm install react-scripts --legacy-peer-deps"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
